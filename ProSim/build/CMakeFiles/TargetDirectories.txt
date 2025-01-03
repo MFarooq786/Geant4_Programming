@@ -1,0 +1,3 @@
+/home/mfarooq/Geant4Projects/MyGeant4Project/Geant4Project/tut5/build/CMakeFiles/rebuild_cache.dir
+/home/mfarooq/Geant4Projects/MyGeant4Project/Geant4Project/tut5/build/CMakeFiles/edit_cache.dir
+/home/mfarooq/Geant4Projects/MyGeant4Project/Geant4Project/tut5/build/CMakeFiles/sim.dir
